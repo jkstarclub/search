@@ -4,6 +4,18 @@ Siman de mic
 
 Tik co de mos
 
+# direction
+
+mot tom
+
+tom tom
+
+Toronto
+
+Ottawa
+
+Montreal
+
 # why
 
 [pandemic]
