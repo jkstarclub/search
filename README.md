@@ -1,6 +1,7 @@
-# moto
+# motto
 
 Siman de mic
+
 Tik co de mos
 
 # why
