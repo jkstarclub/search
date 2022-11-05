@@ -1,3 +1,8 @@
+# moto
+
+Siman de mic
+Tik co de mos
+
 # why
 
 [pandemic]
